@@ -1,2 +1,2 @@
-const open = 0;
+const open = 1;
 window.localStorage.setItem('open-config', open);
